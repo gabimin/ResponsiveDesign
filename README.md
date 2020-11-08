@@ -1,3 +1,5 @@
 # Responsive Design
 
-Cryptocurrency landing page project
+Mobile First
+
+Landing page project
